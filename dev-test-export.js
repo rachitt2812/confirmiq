@@ -12,5 +12,5 @@ Then('DataTable close the chrome', function () {
 // Your test goes here ;
 });
 Given('Simple Go to login pagea', function () {
-// Your test goes here eee;
+// Your test goes here ee;
 });
