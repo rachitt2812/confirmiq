@@ -13,5 +13,5 @@ Then('DataTable close the chrome', function () {
 });
 Given('Simple Go to login pageaa', function () {
 // Your test goes here eeE;
-  // new changes from confirmiq
+  // new changes from confirmiq then github
 });
