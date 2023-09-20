@@ -11,6 +11,6 @@ When('DataTable Login with different different users', function (dataTable) {
 Then('DataTable close the chrome', function () {
 // Your test goes here ;
 });
-Given('Simple Go to login pagea', function () {
+Given('Simple Go to login pageaa', function () {
 // Your test goes here ee;
 });
