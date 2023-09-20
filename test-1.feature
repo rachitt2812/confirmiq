@@ -5,5 +5,4 @@ Feature: Login Feature
     Given Simple Go to login page 
     When Simple Enter user email "user1@gmail" and password "pass@1234"
     Then Simple Click on login button
-    Then Simple Login successfully "userrrrrr@gmail.com"
-    Then Gitchanges
+    Then Simple Login successfullyaaaaaaa "userrrrrr@gmail.com"
