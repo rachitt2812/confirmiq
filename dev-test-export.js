@@ -11,7 +11,7 @@ When('DataTable Login with different different users', function (dataTable) {
 Then('DataTable close the chrome', function () {
 // Your test goes here ;
 });
-Given('Simple Go to login pageaa', function () {
-// Your test goes here eeE;
-  // new changes from confirmiq then github
+Given('Simple Go to login pagea yes it si', function () {
+ 
+ // Your test goes here ---------------aa;
 });
