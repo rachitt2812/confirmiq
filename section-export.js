@@ -2,12 +2,14 @@ const { Given, When, Then }= require('@cucumber/cucumber')
 
 // Scenario: Simple User successfully login
 Given('Simple Go to login page', function () {
-// hi  rachit
+// hi  rachit today 21 sept
 // Your test goes here ;
 });
 When('Simple Enter user email {string} and password {string}', function (str1, str2) {
-  //Simple Enter user email "abc@gmail.com" and password "abc2@413251234e"
-  // Your test goes here ;
+ 
+ //Simple Enter user email "abc@gmail.com" and password "abc2@413251234e"
+ 
+ // Your test goes here ;
 });
 
 Then('Simple Click on login button', function () {
