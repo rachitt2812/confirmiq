@@ -2,7 +2,7 @@ const { Given, When, Then }= require('@cucumber/cucumber')
 
 // Scenario: Simple User successfully login
 Given('Simple Go to login page', function () {
-// Your test goes here ;
+// Your test goes herbe ;
 });
 
 When('Simple Enter user email {string} and password {string}', function (str1, str2) {
@@ -20,6 +20,6 @@ Then('Simple Login successfully {string}', function (str1) {
  
  //Simple Login successfully "ab2@gmail.comma"
  
- // Your test goes here yes it working hurr ;
+ // Your test goes here yes it working hurrjj ;
   // ? new
 });
