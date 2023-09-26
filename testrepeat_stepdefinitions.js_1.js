@@ -20,7 +20,7 @@ Then('Click on login button', function () {
 
 Then('Login successfully {string}', function (email) {
  
- //Login successfully "<email> yoyo"
+ //Login successfully "<email> "
  
  // Your test goes here ;
 });
