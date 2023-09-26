@@ -13,7 +13,7 @@ When('Simple Enter user email {string} and password {string}', function (str1, s
 });
 
 Then('Simple Click on login button', function () {
-// Your test goes here aman;
+// Your test goes here aman add again 26;
 });
 
 Then('Simple Login successfully {string}', function (str1) {
