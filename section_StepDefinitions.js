@@ -20,6 +20,6 @@ Then('Simple Login successfully {string}', function (str1) {
  
  //Simple Login successfully "ab2@gmail.comma"
  
- // Your test goes here yes it working hurrjj ;
+ // Your test goes here yes it working hurrjnoonej ;
   // ? new
 });
