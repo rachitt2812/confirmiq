@@ -2,7 +2,7 @@ const { Given, When, Then }= require('@cucumber/cucumber')
 
 // Scenario: Example Kevin successfully  login
 Given('Example Go to login page', function () {
- 
+ // this demo is for monday standup
  // Your test goes here ;
 });
 
