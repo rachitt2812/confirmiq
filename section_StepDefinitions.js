@@ -2,7 +2,7 @@ const { Given, When, Then }= require('@cucumber/cucumber')
 
 // Scenario: Simple User successfully login
 Given('Simple Go to login page', function () {
-// Your test goes herbe ;
+// Your test goes herbe ;a
 });
 
 When('Simple Enter user email {string} and password {string}', function (str1, str2) {
@@ -13,7 +13,7 @@ When('Simple Enter user email {string} and password {string}', function (str1, s
 });
 
 Then('Simple Click on login button', function () {
-// Your test goes here aman;
+// Your test goes here ;;
 });
 
 Then('Simple Login successfully {string}', function (str1) {
