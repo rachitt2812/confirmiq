@@ -9,8 +9,8 @@ When('DataTable Login with different different users', function (dataTable) {
 // Your test goes here ;
 });
 Then('DataTable close the chrome', function () {
-// Your test goes here ;
+// Your test goes here--oct10 ;
 });
 Given('Simple Go to login page', function () {
-// Your test goes herbe ;
+// Your test goes herbe ;a
 });

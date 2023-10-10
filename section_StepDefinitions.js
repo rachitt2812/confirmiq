@@ -18,7 +18,7 @@ Then('Simple Click on login button', function () {
 
 Then('Simple Login successfully {string}', function (str1) {
  
- //Simple Login successfully "ab2@gmail.comma"
+ //Simple Login successfully "ab2@gmail.comma__oct10"
  
  // Your test goes here yes it working hurrjnoonej yes no one;
   // ? new
