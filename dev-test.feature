@@ -3,8 +3,7 @@ Feature: Login Feature
 
     Scenario: DataTable User successfully login
         Given DataTable Go to login page
-
-        When DataTable Login with diffaaerent different users
+        When DataTable Login with different different users
             | email                                        | password |
             | amanaaaaaaaaaaaaaaaaaaaaaaaaaa@knplabs.com   | 12412312 |
             | aman11111111111111111111111111@symfony.com   | 1424214  |
