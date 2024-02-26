@@ -11,4 +11,4 @@ Feature: Login Feature
             | am2222222222222222222222222@symfony.com  | 1424214  |
             | am33333333333333333333333333@symfony.com | 1424214  |
         Then Simple Click on login button
-        Then Simple Login successfully "aman@gmail"
+        Then Simple Login succesasfully "aman@gmail"
