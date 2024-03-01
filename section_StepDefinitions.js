@@ -12,7 +12,7 @@ When('Simple Enter user email {string} and password {string}', function (str1, s
 Then('Simple Click on login button', function () {
 // Your test goes here ;
 });
-Then('Simple Login successfully {string}', function (str1) {
-//Simple Login successfully "uimatic@gmail.com"
+Then('Simple Login succesasfully {string}', function (str1) {
+//Simple Login succesasfully "aman@gmail"
 // Your test goes here ;
 });
