@@ -3,6 +3,7 @@ const { Given, When, Then }= require('@cucumber/cucumber')
 // Scenario: Simple User successfully login
 Given('Simple Go to login page', function () {
 // Your test goes here ;
+HI Mardc 8
 });
 When('Simple Enter user email {string} and password {string}', function (str1, str2) {
  
