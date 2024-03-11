@@ -12,6 +12,6 @@ public function theBreakerJoinsTheMakersGame() {
 // Your test goes hebre ;
 }
 public function theBreakerMustGuessAWordWith5Characters() {
-// Your test goes heare ;
+// Your test goeas heare ;
 }
 }
