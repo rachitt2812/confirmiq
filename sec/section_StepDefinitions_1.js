@@ -15,6 +15,6 @@ Then('Simple Click on login button', function () {
 // Your test goes aa ;
 });
 Then('Simple Login succesasfully {string}', function (str1) {
-//Simple Login succeasfully "aman@gmail"
+//Simple Login sucaaceasfully "aman@gmail"
 // Your test goes here ;
 });
