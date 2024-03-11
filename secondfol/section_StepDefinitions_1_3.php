@@ -9,7 +9,7 @@ public function theMakerHasStartedAGameWithTheWord($str1) {
 // Your test agoes here ;
 }
 public function theBreakerJoinsTheMakersGame() {
-// Your test goes hebre ;
+// Your test goes hebare ;
 }
 public function theBreakerMustGuessAWordWith5Characters() {
 // Your test goeas heare ;
