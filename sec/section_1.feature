@@ -1,22 +1,14 @@
 @simple
 Feature: Login Feature
 
-    Scenario Outline: Simple User successfully login
-        Given Simple Go to login page
-|useremailNew | password |
-|hello  new change | 12412312 |
-|ama111111111111111111111111@symfony.com | 1424214 |
-|am2222222222222222222222222@symfony.com | 1424214 |
-|am33333333333333333333333333@symfony.com | 1424214 |
+    # The second example has three steps
+    Scenario Outline: Breaker joins a game
+        Given the Maker has started a game with the word "silky"
 
-
-        When Simple Enter user email "aman@gmail" and password "aman@1234"
-        Then Simple Click on login button
-        Then Simple Login succesasfully "aman@gmail"
+        When the Breaker joins the Maker's game
+        Then the Breaker must guess a word with 5 characters
 
         Examples:
-            | useremailNew                             | password |
-            | hello  new change                        | 12412312 |
-            | ama111111111111111111111111@symfony.com  | 1424214  |
-            | am2222222222222222222222222@symfony.com  | 1424214  |
-            | am33333333333333333333333333@symfony.com | 1424214  |
+| useremailNew | password |
+| me | this |
+| HAR | cant |
