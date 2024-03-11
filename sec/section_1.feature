@@ -9,6 +9,6 @@ Feature: Login Feature
         Then the Breaker must guess a word with 5 characters
 
         Examples:
-| useremailNew | password |
-| me | this |
-| HAR | cant |
+            | useremailNew | password |
+            | me           | this     |
+            | HAR          | cant     |
