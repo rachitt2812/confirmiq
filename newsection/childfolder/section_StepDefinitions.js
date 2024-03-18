@@ -9,5 +9,5 @@ When("the demon joins the Maker's game", function () {
   // Your test goes here ;
 });
 Then("the areafa must guess a word with 5 charaacters", function () {
-  // Your test goaes here ;
+  // Your atest goaes here ;
 });
